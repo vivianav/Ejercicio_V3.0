@@ -1,0 +1,9 @@
+C:\Users\Viviana\Documents\Visual Studio 2015\Projects\Ejercicio_V3.0\Ejercicio\Ejercicio.C_LogicaNegocio\bin\Debug\Ejercicio.C_LogicaNegocio.dll
+C:\Users\Viviana\Documents\Visual Studio 2015\Projects\Ejercicio_V3.0\Ejercicio\Ejercicio.C_LogicaNegocio\bin\Debug\Ejercicio.C_LogicaNegocio.pdb
+C:\Users\Viviana\Documents\Visual Studio 2015\Projects\Ejercicio_V3.0\Ejercicio\Ejercicio.C_LogicaNegocio\bin\Debug\Ejercicio.D_AccesoDatos.dll
+C:\Users\Viviana\Documents\Visual Studio 2015\Projects\Ejercicio_V3.0\Ejercicio\Ejercicio.C_LogicaNegocio\bin\Debug\Ejercicio.Entidades.dll
+C:\Users\Viviana\Documents\Visual Studio 2015\Projects\Ejercicio_V3.0\Ejercicio\Ejercicio.C_LogicaNegocio\bin\Debug\Ejercicio.D_AccesoDatos.pdb
+C:\Users\Viviana\Documents\Visual Studio 2015\Projects\Ejercicio_V3.0\Ejercicio\Ejercicio.C_LogicaNegocio\bin\Debug\Ejercicio.Entidades.pdb
+C:\Users\Viviana\Documents\Visual Studio 2015\Projects\Ejercicio_V3.0\Ejercicio\Ejercicio.C_LogicaNegocio\obj\Debug\Ejercicio.C_LogicaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Viviana\Documents\Visual Studio 2015\Projects\Ejercicio_V3.0\Ejercicio\Ejercicio.C_LogicaNegocio\obj\Debug\Ejercicio.C_LogicaNegocio.dll
+C:\Users\Viviana\Documents\Visual Studio 2015\Projects\Ejercicio_V3.0\Ejercicio\Ejercicio.C_LogicaNegocio\obj\Debug\Ejercicio.C_LogicaNegocio.pdb

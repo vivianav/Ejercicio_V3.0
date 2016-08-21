@@ -1,0 +1,81 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="PaginaBase.master.cs" Inherits="PaginaBase" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" >
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+	<title>Your Company Name</title>
+<link rel="stylesheet" type="text/css" media="screen" href="style.css" />
+</head>
+<body>
+
+<div id="container">
+	<div id="intro">
+		<div id="pageHeader">
+			<h1><span>Administración de Consorcios</span></h1>
+			<h2><span>Your Slogan Here</span></h2>
+		</div>
+
+		<div id="preamble">
+			<h3><span>What is Lorem Ipsum?</span></h3>
+			<p class="p1"><span>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</span></p>
+		</div>
+	</div>
+
+	<div id="supportingText">
+		<div id="login">
+            <form id="form1" runat="server">
+                <div>
+                    <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </div>
+            </form>
+
+        </div>
+        <div id="explanation">
+			<h3><span>Where does it come from?</span></h3>
+			<p class="p1"><span></span></p>
+            <p class="p1"><span>Description here.</span></p>
+			<p class="p2"><span>Second description here.</span></p>
+		</div>
+
+
+		<div id="footer">
+Copyright © 2006 Your Company Name
+<!-- Designed by DreamTemplate. Please leave link unmodified. Thank you -->
+<br><a href="http://www.dreamtemplate.com" title="Website Templates" target="_blank">Website templates</a>
+
+		</div>
+
+	</div>
+
+	
+	<div id="linkList">
+		<div id="linkList2">
+			<div id="lselect">
+				<ul>
+					<li><a href="">Home</a></li>
+					<li><a href="">About Us</a></li>
+					<li><a href="">News</a></li>
+					<li><a href="">Contact</a></li>
+					<li><a href="">Links</a></li>
+				</ul>
+			</div>
+
+			<div id="larchives">
+				<h3 class="archives"><span>Links</span></h3>
+				<ul>
+					<li><a href="">Lorem Ipsum</a></li>
+					<li><a href="">Lorem Ipsum</a></li>
+					<li><a href="">Lorem Ipsum</a></li>
+					<li><a href="">Lorem Ipsum</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+
+
+</div>
+</body>
+</html>

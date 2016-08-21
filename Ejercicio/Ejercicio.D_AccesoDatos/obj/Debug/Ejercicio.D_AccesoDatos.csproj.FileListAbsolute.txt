@@ -1,0 +1,7 @@
+C:\Users\Viviana\Documents\Visual Studio 2015\Projects\Ejercicio_V3.0\Ejercicio\Ejercicio.D_AccesoDatos\bin\Debug\Ejercicio.D_AccesoDatos.dll
+C:\Users\Viviana\Documents\Visual Studio 2015\Projects\Ejercicio_V3.0\Ejercicio\Ejercicio.D_AccesoDatos\bin\Debug\Ejercicio.D_AccesoDatos.pdb
+C:\Users\Viviana\Documents\Visual Studio 2015\Projects\Ejercicio_V3.0\Ejercicio\Ejercicio.D_AccesoDatos\bin\Debug\Ejercicio.Entidades.dll
+C:\Users\Viviana\Documents\Visual Studio 2015\Projects\Ejercicio_V3.0\Ejercicio\Ejercicio.D_AccesoDatos\bin\Debug\Ejercicio.Entidades.pdb
+C:\Users\Viviana\Documents\Visual Studio 2015\Projects\Ejercicio_V3.0\Ejercicio\Ejercicio.D_AccesoDatos\obj\Debug\Ejercicio.D_AccesoDatos.csprojResolveAssemblyReference.cache
+C:\Users\Viviana\Documents\Visual Studio 2015\Projects\Ejercicio_V3.0\Ejercicio\Ejercicio.D_AccesoDatos\obj\Debug\Ejercicio.D_AccesoDatos.dll
+C:\Users\Viviana\Documents\Visual Studio 2015\Projects\Ejercicio_V3.0\Ejercicio\Ejercicio.D_AccesoDatos\obj\Debug\Ejercicio.D_AccesoDatos.pdb
