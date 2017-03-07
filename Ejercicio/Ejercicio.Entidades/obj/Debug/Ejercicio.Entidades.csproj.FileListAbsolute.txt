@@ -2,3 +2,4 @@ C:\Users\Viviana\Documents\Visual Studio 2015\Projects\Ejercicio_V3.0\Ejercicio\
 C:\Users\Viviana\Documents\Visual Studio 2015\Projects\Ejercicio_V3.0\Ejercicio\Ejercicio.Entidades\bin\Debug\Ejercicio.Entidades.pdb
 C:\Users\Viviana\Documents\Visual Studio 2015\Projects\Ejercicio_V3.0\Ejercicio\Ejercicio.Entidades\obj\Debug\Ejercicio.Entidades.dll
 C:\Users\Viviana\Documents\Visual Studio 2015\Projects\Ejercicio_V3.0\Ejercicio\Ejercicio.Entidades\obj\Debug\Ejercicio.Entidades.pdb
+C:\Users\Viviana\Documents\Visual Studio 2015\Projects\Ejercicio_V3.0\Ejercicio\Ejercicio.Entidades\obj\Debug\Ejercicio.Entidades.csprojResolveAssemblyReference.cache

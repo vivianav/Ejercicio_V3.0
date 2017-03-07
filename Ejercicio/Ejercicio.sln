@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25123.0
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio.D_AccesoDatos", "Ejercicio.D_AccesoDatos\Ejercicio.D_AccesoDatos.csproj", "{A158E44E-1991-4F4E-B013-364CF37997B8}"
 EndProject
@@ -34,7 +34,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Ejercicio.B_ServicioWeb", "
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Ejercicio.A_SitioWeb", "Ejercicio.A_SitioWeb\", "{FB7A1007-6008-44CE-AD07-0E6A0DAC9E6B}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv3.5"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_24127"
 		Debug.AspNetCompiler.PhysicalPath = "Ejercicio.A_SitioWeb\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_24127\"
