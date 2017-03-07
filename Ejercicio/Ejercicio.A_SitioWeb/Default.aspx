@@ -29,7 +29,7 @@
         </td>
     </tr>
 </table>
-<div _designerregion="0">
+<div>
     <asp:Label ID="lblMensajes" runat="server"></asp:Label>
 </div>
 </asp:Content>

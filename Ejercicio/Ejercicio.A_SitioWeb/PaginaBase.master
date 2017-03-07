@@ -44,7 +44,7 @@
 		<div id="footer">
 Copyright © 2006 Your Company Name
 <!-- Designed by DreamTemplate. Please leave link unmodified. Thank you -->
-<br><a href="http://www.dreamtemplate.com" title="Website Templates" target="_blank">Website templates</a>
+<br/><a href="http://www.dreamtemplate.com" title="Website Templates">Website templates</a>
 
 		</div>
 
@@ -55,21 +55,21 @@ Copyright © 2006 Your Company Name
 		<div id="linkList2">
 			<div id="lselect">
 				<ul>
-					<li><a href="">Home</a></li>
-					<li><a href="">About Us</a></li>
-					<li><a href="">News</a></li>
-					<li><a href="">Contact</a></li>
-					<li><a href="">Links</a></li>
+					<li><a>Home</a></li>
+					<li><a>About Us</a></li>
+					<li><a>News</a></li>
+					<li><a>Contact</a></li>
+					<li><a>Links</a></li>
 				</ul>
 			</div>
 
 			<div id="larchives">
 				<h3 class="archives"><span>Links</span></h3>
 				<ul>
-					<li><a href="">Lorem Ipsum</a></li>
-					<li><a href="">Lorem Ipsum</a></li>
-					<li><a href="">Lorem Ipsum</a></li>
-					<li><a href="">Lorem Ipsum</a></li>
+					<li><a>Lorem Ipsum</a></li>
+					<li><a>Lorem Ipsum</a></li>
+					<li><a>Lorem Ipsum</a></li>
+					<li><a>Lorem Ipsum</a></li>
 				</ul>
 			</div>
 		</div>
